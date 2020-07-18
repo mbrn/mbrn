@@ -1,8 +1,8 @@
-### mehmet baran
+## mehmet baran
 
 I started my career professionally in the software industry. I developed a lot of projects, especially in payment systems. Furthermore, I am interested in software architecture, design principles and object oriented programming. For me, it has always been more important to make software teams easier to work and to get right system architectures and best available performance and simplicity. I always want to work in jobs that i can make the company’s software development processes more efficient and more powerful.
 
-## Stats about me
+### Stats about me
 
 ![mbrn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbrn&show_icons=true)
 
